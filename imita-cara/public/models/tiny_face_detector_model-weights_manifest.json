@@ -1,0 +1,26 @@
+[
+    {
+        "paths": [
+            "/models/tiny_face_detector_model-shard1"
+        ],
+        "weights": [
+            {
+                "name": "tiny_face_detector/conv0/weights",
+                "shape": [
+                    3,
+                    3,
+                    3,
+                    16
+                ],
+                "dtype": "float32"
+            },
+            {
+                "name": "tiny_face_detector/conv0/bias",
+                "shape": [
+                    16
+                ],
+                "dtype": "float32"
+            }
+        ]
+    }
+]

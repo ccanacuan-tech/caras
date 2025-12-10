@@ -1,0 +1,26 @@
+[
+    {
+        "paths": [
+            "/models/face_expression_model-shard1"
+        ],
+        "weights": [
+            {
+                "name": "face_expression_model/conv0/weights",
+                "shape": [
+                    3,
+                    3,
+                    32,
+                    32
+                ],
+                "dtype": "float32"
+            },
+            {
+                "name": "face_expression_model/conv0/bias",
+                "shape": [
+                    32
+                ],
+                "dtype": "float32"
+            }
+        ]
+    }
+]
