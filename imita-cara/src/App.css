@@ -1,0 +1,23 @@
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.video {
+  width: 100%;
+  max-width: 500px;
+  border: 1px solid #ccc;
+  margin-top: 20px;
+}
+
+button {
+  font-size: 1.2rem;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+h1, h2 {
+  color: #333;
+}
